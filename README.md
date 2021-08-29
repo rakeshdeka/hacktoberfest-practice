@@ -147,6 +147,7 @@ Hurray! You successfully made a contribution!
   - [Aman Kuliyal](https://github.com/Iconic-It-Is)
   - [Aman Shrivastava](https://github.com/aman34503)
   - [Aman Verma](https://github.com/amanpro1)
+  - [Amitesh Anand](https://github.com/Astrodevil)
   - [Amrutha C.K.](https://github.com/Amrutha1101)
   - [Ana Carrillo](https://github.com/acarrillo3)
   - [Andrew Cunliffe](https://github.com/andrew-cunliffe)
@@ -192,6 +193,7 @@ Hurray! You successfully made a contribution!
   - [Chinmay Mulay](https://github.com/cmulay)
   - [Chris Moreton](https://github.com/chris-moreton/)
   - [CodesbyUnnati](https://github.com/CodesbyUnnati)
+  - [CodingSpecies](https://github.com/CodingSpecies)
   - [Conor O Shea](https://github.com/conoroshea1996)
   - [Crislana Rafael](https://github.com/crislanarafael)
 
@@ -247,6 +249,7 @@ Hurray! You successfully made a contribution!
 
   - [Hamza Jassar](https://github.com/iJassar)
   - [Hari Hara Sudhan S](https://github.com/HariSuriya520)
+  - [Harshil Hirpara](https://github.com/harshil202)
   - [Harshit Parwal](https://github.com/harshitparwal)
   - [Heetesh Kumar Pradhan](https://github.com/HeeteshSimon)
   - [Hemant Bajaj](https://github.com/ORKO06)
@@ -295,6 +298,7 @@ Hurray! You successfully made a contribution!
   - [Krish](https://github.com/krishdevdb)
   - [Krishna Kumar](https://github.com/Krishnapro)
   - [Krishna R](https://github.com/Krishna-Ravi)
+  - [Kunal Patil](https://github.com/Kunal0007)
   - [Kuwar Kapur](https://github.com/kuwarkapur)
 
 - ### **L**
@@ -323,6 +327,7 @@ Hurray! You successfully made a contribution!
   - [Mohamed Al-Rifay](https://github.com/alrifay)
   - [Mohamed Mehdi Gara](https://github.com/mohamedmehdigara)
   - [Mohamed Naufal A](https://github.com/Naufal2511)
+  - [Mohd Imran](https://github.com/stark255)
   - [Mohit Deshwal](https://github.com/mohit01-beep)
   - [Muhammad Raza](https://github.com/illusiveCode)
   - [Mukul Sharma](https://github.com/mukul98s)
@@ -372,6 +377,7 @@ Hurray! You successfully made a contribution!
   - [Raj Vaya](https://github.com/rajvaya)
   - [Raju Ghorai](https://github.com/coderj001)
   - [Rakesh](https://github.com/RakeshPotnuru)
+  - [Rakesh Deka](https://github.com/rakeshdeka)
   - [Rakesh Mahato](https://github.com/rakeshmahato)
   - [Ram Pandey](https://github.com/ram2510)
   - [Raman Singh](https://github.com/ramansingh189)
@@ -470,6 +476,7 @@ Hurray! You successfully made a contribution!
   - [Vince Y](https://github.com/vmyu)
   - [Vinicius Ramos](https://github.com/redrookie)
   - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
+  - [Vivek Jaiswar](https://github.com/Narcos101)
   - [Vivek Singh](https://github.com/vivmost)
   - [Vladyslav Kyiashko](https://github.com/vlakyi)
   - [Vrukshali Torawane](https://github.com/Vrukshali-26)
